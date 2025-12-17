@@ -1,6 +1,6 @@
 [submodule "external/duckdb"]
 	path = external/duckdb
-	url = https://github.com/duckdb/duckdb.git
-	branch = main
+	url = https://github.com/Randy1005/duckdb.git
+	branch = custom-duckdb-changes
 [submodule]
 	recurse = true
